@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shyamalhazra
 - 👀 I’m interested in cloud technology
-- 🌱 I’m currently learning Kubernetes and ci/cd with AWS
 - 📫 shyamalhazra02@gmail.com
 
 <!---
